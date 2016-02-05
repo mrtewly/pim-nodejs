@@ -1,0 +1,13 @@
+{
+  "name": "sdu-nodejs-demo",
+  "version": "0.0.1",
+  "author": "SDU Team",
+  "description": "nodejs with mongodb",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.8.1"
+  }
+}
